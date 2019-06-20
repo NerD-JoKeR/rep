@@ -46,13 +46,13 @@ export class Payment extends React.Component {
                     >
                         <FormControlLabel
                             value="1"
-                            control={<Radio  color="primary" />}
+                            control={<Radio  color="primary"/>}
                             label="Банковский картой"
                         />
                         <FormControlLabel
                             disabled
                             value="2"
-                            control={<Radio color="primary" />}
+                            control={<Radio color="primary"/>}
                             label="Kaspi кошелок"
                         />
                     </RadioGroup>
