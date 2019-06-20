@@ -1,0 +1,127 @@
+.MuiPaper-root {
+}
+
+.MuiButtonBase-root.MuiButton-root.MuiButton-containedSecondary.MuiButton-contained{
+    color: #fff;
+    background-color: green;
+}
+
+.MuiButtonBase-root.MuiButton-root.MuiButton-containedPrimary.MuiButton-contained{
+    color: #fff;
+    background-color: green;
+}
+
+/* .MuiToolbar-root.MuiToolbar-regular.MuiToolbar-gutters.MuiPickersToolbar-toolbar{
+    height: 100px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    background-color: green;
+} */
+/* .MuiButtonBase-root.MuiIconButton-root.PrivateSwitchBase-root-190.MuiSwitch-switchBase.MuiSwitch-colorSecondary.PrivateSwitchBase-checked-191.Mui-checked.MuiSwitch-colorSecondary.Mui-checked{
+    color:green;
+    }  color of switch button
+    */
+    /* color of  calendar buttons(cancel, ok) */
+/* .MuiButtonBase-root.MuiButton-root.MuiButton-textPrimary.MuiButton-text{
+color:green;
+} 
+/* color of multi toolbar calendar 
+.MuiToolbar-root.MuiToolbar-regular.MuiToolbar-gutters.MuiPickersToolbar-toolbar{
+background-color: green;     
+}
+day selected color 
+.MuiButtonBase-root.MuiIconButton-root.MuiPickersDay-day.MuiPickersDay-current.MuiPickersDay-daySelected {
+color: #fff;
+font-weight: 500;
+background-color: green;
+} 
+/* select checkbox */
+.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorSecondary.PrivateSwitchBase-root-190.MuiCheckbox-root.MuiCheckbox-colorSecondary.PrivateSwitchBase-checked-191.Mui-checked{
+    color: #008000;
+}
+/* radio button */
+.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorPrimary.PrivateSwitchBase-root-190.MuiRadio-root.MuiRadio-colorPrimary.PrivateSwitchBase-checked-191.Mui-checked{
+color: green;
+}
+
+.input [type=submit]{
+    width: 16%;
+    align-items: inherit;
+    justify-content: inherit;
+    margin: 10px 0px;
+    padding: 10px 0px;
+}
+
+.MuiGrid-item .MuiFormControl-root {
+    width: 100%;
+}
+
+.MuiFormControl-root.form-control {
+    min-width: 200px;
+}
+
+/* .MuiButton-root{
+    background-color: green !important;
+}  */
+
+.MuiButton-label .MuiSvgIcon-root {
+    margin-right: 10px;
+}
+
+.form-label {
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.54);
+}
+.form-label + .MuiInput-formControl {
+    margin: 0;
+}
+
+.react-select {
+    display: inline-block;
+    min-width: 280px;
+}
+
+.react-select + .MuiIconButton-root {
+    padding: 8px;
+}
+
+.radiogroup [role="radiogroup"]{
+    /* display: flex; */
+}
+
+.App-header h1 {
+    font-size: 1.5em;
+}
+
+.App-body {
+    margin: 50px auto 30px;
+}
+
+.page-title {
+    margin: 0 0 20px;
+}
+
+.calculator-page {
+    max-width: 600px;
+    padding: 24px;
+    margin: 0 auto;
+}
+
+.registration-page {
+    max-width: 700px;
+    padding: 24px;
+    margin: 0 auto;
+}
+
+.payment-page {
+    max-width: 500px;
+    padding: 24px;
+    margin: 0 auto;
+}
+
+.MuiButton-root.btn-back {
+    margin-right: 15px;
+}
+
